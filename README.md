@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m Kalpana
+#  👋 Hi, I’m Kalpana
 - 👀 I’m interested in open source project contribution 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on open source project
