@@ -1,6 +1,6 @@
 #  👋 Hi, I’m Kalpana 
 - 🎓 I’m currently pursuing my Bachelors in Computer Science & Engineering.
-- 👨‍💻 I am passionate about Web Development, DevOps & I enjoy learning new things.
+- 👨‍💻 I am passionate about Web Development, Data science & I enjoy learning new things.
 <!-- - 💞️ I’m looking for opportunity -->
 
 <!-- - 👀 I’m interested in open source project contribution  -->
